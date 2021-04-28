@@ -1,0 +1,5 @@
+Case-Worker
+%WER 7.83 [ 383 / 4894, 36 ins, 66 del, 281 sub ]
+
+Client
+%WER 17.70 [ 558 / 3153, 38 ins, 160 del, 360 sub ]

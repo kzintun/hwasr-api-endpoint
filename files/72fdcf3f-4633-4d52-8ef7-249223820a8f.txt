@@ -1,0 +1,3 @@
+some file a b c
+some hotowrdlist
+longhotword list

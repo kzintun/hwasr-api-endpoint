@@ -1,0 +1,192 @@
+python: can't open file 'main,py': [Errno 2] No such file or directory
+python: can't open file 'main,py': [Errno 2] No such file or directory
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 298-062-195
+dos2unix: converting file /local/api-endpoint/files/d725b2e5-e4fe-41b1-ba93-8aec0117fdf6.txt to Unix format ...
+-updating hw asr
+./wschange-kwlist ws://localhost:9997/client/ws/speech /local/api-endpoint/files/d725b2e5-e4fe-41b1-ba93-8aec0117fdf6.txt 
+LOG (wschange-kwlist[5.5.883~1-3eea3]:Connect():websocketclient.cc:390) WebSocketClient: host=localhost, port=9997, path=client/ws/speech
+LOG (wschange-kwlist[5.5.883~1-3eea3]:Connect():websocketclient.cc:442) Connected ...
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'james best'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'eric cambria'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chew kean kee'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'anand jayasekaran'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'anand viswanathan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'salil chowhury'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'ameer ahmad'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'nomi ahmad'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'azline hermert smith'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'bo an'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'mary chan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chua siew wee'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'cho nam joon'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'christine cheong mei mei'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'jimmy hsia'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chang san man'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'pang jialin'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'tan yong hui'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'tan ling wan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'lim yew tang'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan chee yun'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan chin wan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan gek cher'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan hiang ping'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan hwee when'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'mao tingzhi'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'ma duo'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'xu haihua'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chng eng siong'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'li haizhou'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'deepu rajan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'adams kong'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=james best
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=eric cambria
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chew kean kee
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=anand jayasekaran
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=anand viswanathan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=salil chowhury
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=ameer ahmad
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=nomi ahmad
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=azline hermert smith
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=bo an
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=mary chan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chua siew wee
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=cho nam joon
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=christine cheong mei mei
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=jimmy hsia
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chang san man
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=pang jialin
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=tan yong hui
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=tan ling wan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=lim yew tang
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan chee yun
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan chin wan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan gek cher
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan hiang ping
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan hwee when
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=mao tingzhi
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=ma duo
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=xu haihua
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chng eng siong
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=li haizhou
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=deepu rajan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=adams kong
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:59) jstr={"type": "keyword", "data": {"kw00001": "james best","kw00002": "eric cambria","kw00003": "chew kean kee","kw00004": "anand jayasekaran","kw00005": "anand viswanathan","kw00006": "salil chowhury","kw00007": "ameer ahmad","kw00008": "nomi ahmad","kw00009": "azline hermert smith","kw00010": "bo an","kw00011": "mary chan","kw00012": "chua siew wee","kw00013": "cho nam joon","kw00014": "christine cheong mei mei","kw00015": "jimmy hsia","kw00016": "chang san man","kw00017": "pang jialin","kw00018": "tan yong hui","kw00019": "tan ling wan","kw00020": "lim yew tang","kw00021": "chan chee yun","kw00022": "chan chin wan","kw00023": "chan gek cher","kw00024": "chan hiang ping","kw00025": "chan hwee when","kw00026": "mao tingzhi","kw00027": "ma duo","kw00028": "xu haihua","kw00029": "chng eng siong","kw00030": "li haizhou","kw00031": "deepu rajan","kw00032": "adams kong"}}
+LOG (wschange-kwlist[5.5.883~1-3eea3]:main():wschange-kwlist.cc:94) jstr is {"type": "keyword", "data": {"kw00001": "james best","kw00002": "eric cambria","kw00003": "chew kean kee","kw00004": "anand jayasekaran","kw00005": "anand viswanathan","kw00006": "salil chowhury","kw00007": "ameer ahmad","kw00008": "nomi ahmad","kw00009": "azline hermert smith","kw00010": "bo an","kw00011": "mary chan","kw00012": "chua siew wee","kw00013": "cho nam joon","kw00014": "christine cheong mei mei","kw00015": "jimmy hsia","kw00016": "chang san man","kw00017": "pang jialin","kw00018": "tan yong hui","kw00019": "tan ling wan","kw00020": "lim yew tang","kw00021": "chan chee yun","kw00022": "chan chin wan","kw00023": "chan gek cher","kw00024": "chan hiang ping","kw00025": "chan hwee when","kw00026": "mao tingzhi","kw00027": "ma duo","kw00028": "xu haihua","kw00029": "chng eng siong","kw00030": "li haizhou","kw00031": "deepu rajan","kw00032": "adams kong"}}
+127.0.0.1 - - [14/Apr/2021 01:33:44] "[37mPOST /update HTTP/1.1[0m" 200 -
+128.14.209.242 - - [14/Apr/2021 05:17:04] "[37mGET / HTTP/1.1[0m" 200 -
+80.82.77.227 - - [14/Apr/2021 11:31:33] "[37mGET / HTTP/1.1[0m" 200 -
+89.248.168.141 - - [14/Apr/2021 11:50:43] "[37mGET / HTTP/1.1[0m" 200 -
+89.248.168.141 - - [14/Apr/2021 11:50:43] "[37mGET / HTTP/1.1[0m" 200 -
+74.120.14.53 - - [14/Apr/2021 16:14:42] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x032\x04\x85Î\x81A\x15ëaû\x1bö\x85Y\x87å\x8fî3\x9c»\x8dë>Ü4ÉEXT\x84h\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À')
+74.120.14.53 - - [14/Apr/2021 16:14:42] "[35m[1m {  w2ÎAëaûöYåî3»ë>Ü4ÉEXTh  À/À+ÀÀÀÀ ÀÀ[0m" HTTPStatus.BAD_REQUEST -
+74.120.14.53 - - [14/Apr/2021 16:14:43] "[37mGET / HTTP/1.1[0m" 200 -
+74.120.14.53 - - [14/Apr/2021 16:14:44] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.37 - - [14/Apr/2021 17:18:27] code 400, message Bad request version ('7M¹ýù\xadây\x16?')
+162.142.125.37 - - [14/Apr/2021 17:18:27] "[35m[1m {  wE² ­^Z[îü)7M¹ýù­ây?[0m" HTTPStatus.BAD_REQUEST -
+162.142.125.37 - - [14/Apr/2021 17:18:30] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.37 - - [14/Apr/2021 17:18:31] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.128 - - [14/Apr/2021 18:38:02] "[37mGET / HTTP/1.1[0m" 200 -
+92.118.161.13 - - [14/Apr/2021 19:41:28] "[37mGET / HTTP/1.0[0m" 200 -
+194.61.25.4 - - [14/Apr/2021 20:57:59] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+194.61.25.4 - - [14/Apr/2021 20:57:59] "[35m[1m  /*à     Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+104.206.128.10 - - [14/Apr/2021 23:57:14] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.37 - - [15/Apr/2021 04:27:07] code 400, message Bad request version ('À\x14À')
+162.142.125.37 - - [15/Apr/2021 04:27:07] "[35m[1m {  w!0>bÛ©¬Mö´©eÕÅ)í[ø     D]  À/À+ÀÀÀÀ      ÀÀ[0m" HTTPStatus.BAD_REQUEST -
+162.142.125.37 - - [15/Apr/2021 04:27:09] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.37 - - [15/Apr/2021 04:27:09] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+[31m   WARNING: This is a development server. Do not use it in a production deployment.[0m
+[2m   Use a production WSGI server instead.[0m
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 243-622-609
+dos2unix: converting file /local/api-endpoint/files/977c3f0d-3914-4890-9f5b-26676a44e797.txt to Unix format ...
+-updating hw asr
+./wschange-kwlist ws://localhost:9997/client/ws/speech /local/api-endpoint/files/977c3f0d-3914-4890-9f5b-26676a44e797.txt 
+LOG (wschange-kwlist[5.5.883~1-3eea3]:Connect():websocketclient.cc:390) WebSocketClient: host=localhost, port=9997, path=client/ws/speech
+LOG (wschange-kwlist[5.5.883~1-3eea3]:Connect():websocketclient.cc:442) Connected ...
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'james best'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'eric cambria'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chew kean kee'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'anand jayasekaran'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'anand viswanathan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'salil chowhury'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'ameer ahmad'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'nomi ahmad'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'azline hermert smith'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'bo an'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'mary chan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chua siew wee'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'cho nam joon'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'christine cheong mei mei'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'jimmy hsia'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chang san man'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'pang jialin'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'tan yong hui'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'tan ling wan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'lim yew tang'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan chee yun'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan chin wan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan gek cher'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan hiang ping'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chan hwee when'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'mao tingzhi'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'ma duo'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'xu haihua'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'chng eng siong'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'li haizhou'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'deepu rajan'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:LoadKeywordList():wschange-kwlist.cc:32) after: 'adams kong'
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=james best
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=eric cambria
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chew kean kee
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=anand jayasekaran
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=anand viswanathan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=salil chowhury
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=ameer ahmad
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=nomi ahmad
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=azline hermert smith
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=bo an
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=mary chan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chua siew wee
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=cho nam joon
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=christine cheong mei mei
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=jimmy hsia
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chang san man
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=pang jialin
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=tan yong hui
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=tan ling wan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=lim yew tang
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan chee yun
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan chin wan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan gek cher
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan hiang ping
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chan hwee when
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=mao tingzhi
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=ma duo
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=xu haihua
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=chng eng siong
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=li haizhou
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=deepu rajan
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:47) keyword=adams kong
+LOG (wschange-kwlist[5.5.883~1-3eea3]:MakeJsonKeywordStr():wschange-kwlist.cc:59) jstr={"type": "keyword", "data": {"kw00001": "james best","kw00002": "eric cambria","kw00003": "chew kean kee","kw00004": "anand jayasekaran","kw00005": "anand viswanathan","kw00006": "salil chowhury","kw00007": "ameer ahmad","kw00008": "nomi ahmad","kw00009": "azline hermert smith","kw00010": "bo an","kw00011": "mary chan","kw00012": "chua siew wee","kw00013": "cho nam joon","kw00014": "christine cheong mei mei","kw00015": "jimmy hsia","kw00016": "chang san man","kw00017": "pang jialin","kw00018": "tan yong hui","kw00019": "tan ling wan","kw00020": "lim yew tang","kw00021": "chan chee yun","kw00022": "chan chin wan","kw00023": "chan gek cher","kw00024": "chan hiang ping","kw00025": "chan hwee when","kw00026": "mao tingzhi","kw00027": "ma duo","kw00028": "xu haihua","kw00029": "chng eng siong","kw00030": "li haizhou","kw00031": "deepu rajan","kw00032": "adams kong"}}
+LOG (wschange-kwlist[5.5.883~1-3eea3]:main():wschange-kwlist.cc:94) jstr is {"type": "keyword", "data": {"kw00001": "james best","kw00002": "eric cambria","kw00003": "chew kean kee","kw00004": "anand jayasekaran","kw00005": "anand viswanathan","kw00006": "salil chowhury","kw00007": "ameer ahmad","kw00008": "nomi ahmad","kw00009": "azline hermert smith","kw00010": "bo an","kw00011": "mary chan","kw00012": "chua siew wee","kw00013": "cho nam joon","kw00014": "christine cheong mei mei","kw00015": "jimmy hsia","kw00016": "chang san man","kw00017": "pang jialin","kw00018": "tan yong hui","kw00019": "tan ling wan","kw00020": "lim yew tang","kw00021": "chan chee yun","kw00022": "chan chin wan","kw00023": "chan gek cher","kw00024": "chan hiang ping","kw00025": "chan hwee when","kw00026": "mao tingzhi","kw00027": "ma duo","kw00028": "xu haihua","kw00029": "chng eng siong","kw00030": "li haizhou","kw00031": "deepu rajan","kw00032": "adams kong"}}
+127.0.0.1 - - [21/Apr/2021 01:22:27] "[37mPOST /update HTTP/1.1[0m" 200 -
+162.142.125.55 - - [21/Apr/2021 03:50:59] code 400, message Bad request version ('À\x14À')
+162.142.125.55 - - [21/Apr/2021 03:50:59] "[35m[1m {  wÿÆB®8¯ý¡&._²é @÷@<ø 1ùV½I¤   À/À+ÀÀÀÀ  ÀÀ[0m" HTTPStatus.BAD_REQUEST -
+162.142.125.55 - - [21/Apr/2021 03:51:00] "[37mGET / HTTP/1.1[0m" 200 -
+162.142.125.55 - - [21/Apr/2021 03:51:00] "[37mGET / HTTP/1.1[0m" 200 -
+114.67.95.135 - - [21/Apr/2021 04:02:53] "[33mGET /v1/agent/self HTTP/1.1[0m" 404 -
+185.173.35.5 - - [21/Apr/2021 05:25:44] "[37mGET / HTTP/1.1[0m" 200 -
+104.140.188.34 - - [21/Apr/2021 10:36:21] "[37mGET / HTTP/1.0[0m" 200 -

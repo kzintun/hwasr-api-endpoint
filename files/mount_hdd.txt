@@ -1,0 +1,10 @@
+#1. Get the disk ID for hdd. E.g. /dev/sdc1
+Sudo gparted or sudo parted -l
+
+#2. Check ‘/etc/fstab’ and insert the following
+# secondary hdd
+/dev/sdc1 /storage ext4 defaults,x-gvfs-show 0 0
+
+#3. Mount the disk
+Sudo mount /dev/sdc1 /storage
+
