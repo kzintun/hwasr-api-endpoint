@@ -1,1 +1,4 @@
 ./venv3
+__pycache__
+./files/*
+./tmp
